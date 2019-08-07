@@ -8,11 +8,12 @@ This client is intended to be used with [prisma-graphql-auth](https://github.com
 
 ## Getting started
 
-Please make sure you have a server running, whether it be mine or one of your own.
-Change your endpoint to wherever your server is running
+Please make sure you have a server running, whether it be mine or one of your own.  
+Change your endpoint to wherever your server is running  
 `lib/initApollo.js`
 and change `configApi` to your uri
-then install  
+
+Install dependencies  
 `yarn install`  
-then start  
+Start the app  
 `yarn start`
